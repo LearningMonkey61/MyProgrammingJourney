@@ -1,0 +1,10 @@
+body{
+    color: black ;
+    background-color: green;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#topbar{
+    align-content: center;
+    background-color: white;
+    height: 50px; 
+}
